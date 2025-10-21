@@ -25,8 +25,8 @@
 
 ### 📈 Estatísticas do GitHub  
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FireForge&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireForge&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FireForge-dev&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireForge-dev&layout=compact&theme=tokyonight"/>
 </div>
 
 <!---
