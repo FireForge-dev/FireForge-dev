@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- Banner ou logo opcional -->
+<h1 align="center">🔥 FireForge</h1>
+<h3 align="center">Forjando ideias com código e criatividade ⚒️</h3>
 
-<!--
-**FireForge-dev/FireForge-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Sobre mim  
+💡 Olá! Eu sou o **FireForge**, apaixonado por tecnologia, design e inovação.  
+🎯 Meu objetivo é criar soluções que unam **performance**, **beleza** e **propósito**.  
+🚀 Atualmente, estou focado em aprimorar minhas habilidades em **Frontend** e **UI/UX Design**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas  
+💻 **Linguagens & Frameworks:**  
+`HTML` • `CSS` • `JavaScript` • `React` • `Node.js`  
+
+🎨 **Design & Criação:**  
+`Figma` • `Canva` • `Photoshop`  
+
+⚙️ **Outros:**  
+`Git` • `GitHub` • `VS Code` • `NPM`  
+
+---
+
+### 📈 Estatísticas do GitHub  
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FireForge&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireForge&layout=compact&theme=tokyonight"/>
+</div>
+
+<!---
+
+### 🌐 Conecte-se comigo  
+💼 [**Portfolio**](https://fireforge.dev) *(coloca quando tiver o site pronto)*  
+🎨 [**Behance**](https://behance.net/fireforge)  
+🐦 [**Twitter/X**](https://x.com/fireforge)  
+📷 [**Instagram**](https://instagram.com/fireforge_)  
+
+--->
+### ⚒️ “Criar é forjar algo que resiste ao tempo.”
