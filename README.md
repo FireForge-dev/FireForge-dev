@@ -6,7 +6,9 @@
 
 ### 👋 Sobre mim  
 💡 Olá! Eu sou o Lucas, mas pode me chamar de **Fire** e seja bem vindo a minha **Forja**.
-🎯 Meu objetivo é criar soluções que unam **performance**, **beleza** e **propósito**.  
+
+🎯 Meu objetivo é criar soluções que unam **performance**, **beleza** e **propósito**.
+
 🚀 Atualmente, estou focado em aprimorar minhas habilidades em **Frontend** e **UI/UX Design**.   apaixonado por tecnologia, design e inovação. 
 
 ---
