@@ -5,15 +5,15 @@
 ---
 
 ### 👋 Sobre mim  
-💡 Olá! Eu sou o **FireForge**, apaixonado por tecnologia, design e inovação.  
+💡 Olá! Eu sou o Lucas, mas pode me chamar de **Fire** e seja bem vindo a minha **Forja**.
 🎯 Meu objetivo é criar soluções que unam **performance**, **beleza** e **propósito**.  
-🚀 Atualmente, estou focado em aprimorar minhas habilidades em **Frontend** e **UI/UX Design**.  
+🚀 Atualmente, estou focado em aprimorar minhas habilidades em **Frontend** e **UI/UX Design**.   apaixonado por tecnologia, design e inovação. 
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas  
 💻 **Linguagens & Frameworks:**  
-`HTML` • `CSS` • `JavaScript` • `React` • `Node.js`  
+`HTML` • `CSS` • `JavaScript` <!-- • `React` • `Node.js`  -->
 
 🎨 **Design & Criação:**  
 `Figma` • `Canva` • `Photoshop`  
